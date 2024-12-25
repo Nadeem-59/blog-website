@@ -5,6 +5,8 @@ export default function AuthorCard () {
     <div className='bg-white shadow-lg rounded-lg p-6 mt-12'>
       <div className='flex items-center animation-fadeIn'>
 
+        {/* IMage */}
+
   <Image
   className='w-16 h-16 rounded-full mr-4 object-cover border-2 border-red-500'
   src='/images/hanna.jpg'    
