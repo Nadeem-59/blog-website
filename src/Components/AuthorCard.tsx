@@ -44,14 +44,6 @@ export default function AuthorCard () {
     >
      Instagram
   </a>
-
-  <a
-    href='a'
-    className='px-4 py-2 text-white bg-black rounded:md hover:bg-blue-800 transition duration-300'
-    >
-     Facebook
-  </a>
-
   <a
     href='a'
     className='px-4 py-2 text-white bg-black rounded:md hover:bg-blue-800 transition duration-300'
